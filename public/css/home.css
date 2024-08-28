@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero-title {
+  font-size: 100px;
+}
+
+.hero-para {
+  font-size: 16px;
+}
+
+.noir {
+  background-color: black !important;
+}
+
+.baniere {
+  background-color: rgba(0, 82, 72, 1) !important;
+}
+
+.baniere-icon {
+  width: 50px;
+  height: 50px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.baniere-icon i {
+  color: rgba(0, 82, 72, 1) !important;
+}
+
+.ban {
+  margin-top: -50px !important;
+}
+
+.line {
+  width: 150px;
+  height: 2vh;
+  background-color: rgba(248, 226, 103, 1) !important;
+  margin-top: 80px;
+}
+
+.gallerie:hover {
+  background-image: url(../images/gallerie-1-sf.svg) !important;
+}
+
+.gallerie1:hover {
+  background-image: url(../images/gallerie-2-sf.svg) !important;
+}
+
+.gallerie2:hover {
+  background-image: url(../images/gallerie-3-sf.svg) !important;
+}
+
+.gallerie3:hover {
+  background-image: url(../images/gallerie-4-sf.svg) !important;
+}
+
+.pop {
+  background-color: rgba(248, 226, 103, 1) !important;
+}
+
+.call,
+.btn-reserver {
+  background-color: rgba(0, 82, 72, 1) !important;
+}
+/* -------------------css khalil------------------- */
+
+.CardBag{
+  background-color: #f7f7ed;
+}
+.roundede{
+  border-radius: 15px;
+}
+.CardBagTitre{
+  background-color: #f5b41d;
+}
+.monCouleur{
+  color: #006175;
+}
+.CardBagTitre2{
+  background-color: #D9D9D9;
+}
+.CardBagTitre3{
+  background-color: #006175;
+  color: #f5b41d;
+  font-size: 11px;
+
+}
+.monSize{
+  font-size: 11px;
+}
+.couleur2{
+  color: #5C5C59;
+}
+.monSize2{
+  font-size: 15px;
+}
+.cont32:hover{
+  transform: scale(1.1);
+}
+
+/* ------------------header------------------ */
+.monCoul2{
+  color: #FFB100 !important;
+}
+.monBag{
+  background-color: #f7f7ed !important;
+}
+.circle{
+  border-radius: 90%;
+}
+.monBag2{
+  background-color: #047062 !important;
+  color: white;
+  border-radius: 15px;
+  border: none;
+  height: 40px;
+  width: 130px;
+  text-align: center !important;
+}
+.monCouleur{
+  color: #006175 !important;
+}
+.monImage{
+  width: 60%;
+}
+.monheader{
+  background-color: #F5F5DC;
+}
+.monBag3{
+background-color: #047062;
+width: 45px;
+height: 45px;
+}
+a{
+  text-decoration: none !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200..800&family=Manrope:wght@200&family=Montserrat&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: "Poppins", sans-serif;
+
+}
+
+.monCouleure{
+    color: #006175;
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.monInput{
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 40px;
+}
+.monBouton{
+    background-color: #FFB100;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.monBag20{
+    background-color: #047062;
+    color: white;
+    
+}
+
+.noire{
+  color: black;
+}
